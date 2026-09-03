@@ -22,7 +22,7 @@ This project replicates the transfer learning methodology used in pneumonia dete
 
 | Metric | Default threshold (0.5) | Tuned threshold |
 |---|---|---|
-| Accuracy | **95%** |
+| Accuracy | 74% | **91%** |
 | Normal recall | 0.30 | 0.90 |
 | Pneumonia recall | 1.00 | 0.92 |
 | AUC | 0.99 | 0.99 |
