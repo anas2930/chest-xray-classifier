@@ -1,5 +1,5 @@
-flask
-tensorflow-cpu
-opencv-python-headless
+streamlit
+tensorflow
 numpy
-gunicorn
+opencv-python-headless
+h5py
