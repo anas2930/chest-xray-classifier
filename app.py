@@ -24,7 +24,7 @@ def set_background(image_path):
         unsafe_allow_html=True
     )
 
-set_background("C:/Users/FASTECH LAPTOP/Downloads/download.jpeg")
+set_background("download.jpeg")
 
 OPTIMAL_THRESHOLD = 0.9990534
 CLASS_NAMES = ['NORMAL', 'PNEUMONIA']
